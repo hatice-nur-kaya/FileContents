@@ -1,0 +1,37 @@
+#İsterler
+
+# Gecerli sayi ifadeleri:
+# * 10
+# * 5.72
+# * -1
+# * -7.87
+# * 1 000 000 (gruplu bosluk)
+# * 1,000,000 (gruplu virgul)
+# * -8001.45
+# * -8 001.45
+
+# Gecersiz sayi ifadeleri:
+# * six (yaziyla)
+# * minus six (yaziyla)
+# * 5,56 (yanlis gruplanmis)
+# * 
+
+
+#for dosya in dizin:
+    #dosyaoku
+    
+#splitle boşluklara ayır
+
+# kelimeListesi =[ "#", "Gecerli", "sayi" ,"10"] 
+#sayac=0
+#for kelime in kelimeListesi:
+ #if isNumber (kelime)
+    #sayac++
+
+#print(sayac)
+
+# def isNumber (kelime String) :
+    #[0-9*-]
+        #return 
+        
+        
